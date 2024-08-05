@@ -13,7 +13,7 @@ An advanced web application built with Next.js, demonstrating my expertise in mo
 - **Technologies:** Next.js, React, CSS Modules
 - **Features:** Server-side rendering, Dynamic routing, API integration
 
-#### [Number Game](https://github.com/mharisqadri/Number-Game)
+#### [Number Game](https://github.com/mharisqadri/bore-let-s-play-game-...-02-08-2024)
 An interactive number game developed as a learning project. It helps in understanding basic JavaScript concepts and DOM manipulation.
 - **Technologies:** HTML, CSS, JavaScript
 - **Features:** Random number generation, User input validation
